@@ -1,2 +1,9 @@
-# Pacman-Game
-A simple python game made based on a classic game PACMAN, just to get a good understanding for various concepts of python.
+# Pacman
+This is our classic game Pacman recreated in python just for fun....
+
+To play just use arrow keys and rest of the rules you know...
+
+Have fun!!!!!!!!!!!!!!!!!
+
+
+Also if you want to suggest me some changes in it, feel free as I am also in my learning stage....
